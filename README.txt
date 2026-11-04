@@ -21,3 +21,12 @@ Versao 1.0.3:
 - Dialog e formulario limitados a largura real da viewport, sem overflow horizontal.
 - Mantida escolha de imagem pela Fototeca, Camera ou Arquivos do iPhone.
 - Cache PWA atualizado para v1.0.3.
+
+
+Versao 1.0.4:
+- Correcao estrutural de atualizacao da PWA no Safari.
+- Navegacao em network-first.
+- Service Worker com skipWaiting e clients.claim.
+- Exclusao automatica de caches de versoes antigas.
+- CSS, JS e manifest com URLs versionadas para evitar reutilizacao do cache anterior.
+- Formulario mobile de uma coluna mantido.
