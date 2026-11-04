@@ -33,3 +33,5 @@ Versao 1.0.4:
 
 
 Versao 1.1.0: abas Resumo/Charutos/Mais; status Em transito/Disponivel/Esgotado; recebimento; composicao com Miolo; harmonizacao alcoolica e nao alcoolica; edicao completa; Safe Area do cadastro; cache PWA versionado.
+
+Versao 1.1.1: hotfix do botao Novo charuto, reposicionado acima da navegacao inferior e da Safe Area do iPhone.
