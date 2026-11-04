@@ -30,3 +30,6 @@ Versao 1.0.4:
 - Exclusao automatica de caches de versoes antigas.
 - CSS, JS e manifest com URLs versionadas para evitar reutilizacao do cache anterior.
 - Formulario mobile de uma coluna mantido.
+
+
+Versao 1.1.0: abas Resumo/Charutos/Mais; status Em transito/Disponivel/Esgotado; recebimento; composicao com Miolo; harmonizacao alcoolica e nao alcoolica; edicao completa; Safe Area do cadastro; cache PWA versionado.
