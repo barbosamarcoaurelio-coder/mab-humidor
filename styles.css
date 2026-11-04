@@ -35,3 +35,12 @@ body{padding-bottom:96px}.appHeader{padding-top:calc(14px + env(safe-area-inset-
   bottom:calc(88px + env(safe-area-inset-bottom));
   z-index:40;
 }
+
+/* v1.2.0 */
+dialog{padding-top:max(14px,env(safe-area-inset-top));}
+#detailDlg,#supplierDlg{margin-top:env(safe-area-inset-top);max-height:calc(100dvh - env(safe-area-inset-top) - 10px);}
+#detail .modalHead,.supplierClose{position:relative;z-index:12}
+#detail .modalHead{position:sticky;top:0;background:#18181b;padding:12px 0;border-bottom:1px solid #27272a}
+#detail .close2,.supplierClose{min-width:48px;min-height:48px;font-size:18px}
+.detailWide{grid-column:1/-1}
+.supplierList{display:grid;gap:8px;margin-top:12px}.supplierCard{background:#09090b;border:1px solid #27272a;border-radius:14px;padding:12px}.supplierCard .row{align-items:center}.supplierActions{display:flex;gap:6px}.supplierActions button{padding:8px 10px}.divider{border:0;border-top:1px solid #27272a;margin:22px 0}.supplierGrid{grid-template-columns:1fr!important}.supplierGrid>*{grid-column:1/-1!important}
