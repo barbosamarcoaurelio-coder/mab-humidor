@@ -12,3 +12,12 @@ Versao 1.0.2:
 - Campos mantidos em 16px no WebKit e viewport travado em escala 1.
 - Mantida selecao de imagem via Fototeca, Camera ou Arquivos do iPhone.
 - Cache PWA atualizado para v1.0.2.
+
+
+Versao 1.0.3:
+- Formulario de cadastro passa a uma coluna no iPhone/mobile.
+- Campos usam 17px para evitar autozoom do Safari iOS.
+- Removido workaround JavaScript de foco da v1.0.2.
+- Dialog e formulario limitados a largura real da viewport, sem overflow horizontal.
+- Mantida escolha de imagem pela Fototeca, Camera ou Arquivos do iPhone.
+- Cache PWA atualizado para v1.0.3.
