@@ -37,3 +37,9 @@ Versao 1.1.0: abas Resumo/Charutos/Mais; status Em transito/Disponivel/Esgotado;
 Versao 1.1.1: hotfix do botao Novo charuto, reposicionado acima da navegacao inferior e da Safe Area do iPhone.
 
 Versao 1.2.0: novo icone premium; Safe Area na ficha de detalhes; tempo medio de fumada; cadastro estruturado de lojas/fornecedores; associacao editavel aos charutos existentes; fornecedores incluidos no backup.
+
+Versao 1.2.1: aba Lojas dedicada; migracao automatica do campo Loja dos charutos antigos; deduplicacao por nome; ligacao automatica charuto-fornecedor; fornecedores importados entram como A definir; indicadores por fornecedor.
+
+Versao 1.3.0: fluxo Fumei um com avaliacao/comentarios/tempo/sabores; historico de degustacoes; registro retroativo; financeiro com investimento acumulado, valor consumido e saldo; historico de compras por lote; nova compra; custo FIFO; icone externo com novos nomes fisicos para iOS.
+
+Versao 1.3.1: avaliacao guiada no registro de fumada, com significados de 1 Ruim a 5 Excelente e suporte a meios pontos.
